@@ -1,0 +1,28 @@
+{
+    "default_filament_colour": [
+        "#00FDDD"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_cost": [
+        "50"
+    ],
+    "filament_flow_ratio": [
+        "0.96"
+    ],
+    "filament_settings_id": [
+        "Plastspaw PLA"
+    ],
+    "filament_vendor": [
+        "Plastspaw"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA @System",
+    "is_custom_defined": "0",
+    "name": "Plastspaw PLA",
+    "pressure_advance": [
+        "0.025"
+    ],
+    "version": "2.2.0.4"
+}
